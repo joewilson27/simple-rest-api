@@ -1,0 +1,9 @@
+D:\Docs\Lessons\CsharpId\EntityFramework\DBFirst\WebAPICRUD\StudentServices\StudentDataAccess\bin\Debug\StudentDataAccess.dll.config
+D:\Docs\Lessons\CsharpId\EntityFramework\DBFirst\WebAPICRUD\StudentServices\StudentDataAccess\bin\Debug\StudentDataAccess.dll
+D:\Docs\Lessons\CsharpId\EntityFramework\DBFirst\WebAPICRUD\StudentServices\StudentDataAccess\bin\Debug\StudentDataAccess.pdb
+D:\Docs\Lessons\CsharpId\EntityFramework\DBFirst\WebAPICRUD\StudentServices\StudentDataAccess\bin\Debug\EntityFramework.dll
+D:\Docs\Lessons\CsharpId\EntityFramework\DBFirst\WebAPICRUD\StudentServices\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Docs\Lessons\CsharpId\EntityFramework\DBFirst\WebAPICRUD\StudentServices\StudentDataAccess\bin\Debug\EntityFramework.xml
+D:\Docs\Lessons\CsharpId\EntityFramework\DBFirst\WebAPICRUD\StudentServices\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Docs\Lessons\CsharpId\EntityFramework\DBFirst\WebAPICRUD\StudentServices\StudentDataAccess\obj\Debug\StudentDataAccess.dll
+D:\Docs\Lessons\CsharpId\EntityFramework\DBFirst\WebAPICRUD\StudentServices\StudentDataAccess\obj\Debug\StudentDataAccess.pdb
